@@ -1,0 +1,6 @@
+@Harvey.Mouloundou.FeatureMatching.WebApi_HostAddress = http://localhost:5254
+
+GET {{Harvey.Mouloundou.FeatureMatching.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
